@@ -10,3 +10,9 @@ caracteres tipo A B C
 * menor que 60    - F
 
 
+#Desafio 2: Crie um obejto que possuira 2 propriedades,ambas do tipo array:
+
+* receitas:[]
+* despesas:[]
+
+E crie uma função que irá calcular o total de receitas e despesas e irá mostrar uma mensagem se a familia esta com saldo positivo ou negativo, seguindo o valor do saldo
