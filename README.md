@@ -23,3 +23,11 @@ E crie uma função que irá calcular o total de receitas e despesas e irá most
     C = (F - 32) * 5/9
 
     F = C * 9/5 + 32
+
+
+#Desafio 4: Baseado no Array de LivrosPorCatergiria, Faça os seguintes desafios
+
+* Contar o numero de categorias e o numero de livros em cada categoria
+* Contar o numero de autores
+* Mostrar livros do autor Augun Cury
+* Transformar a função acima em uma dunção que irá receber o nome do autor e devolver os livros desse autor
