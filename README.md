@@ -16,3 +16,10 @@ caracteres tipo A B C
 * despesas:[]
 
 E crie uma função que irá calcular o total de receitas e despesas e irá mostrar uma mensagem se a familia esta com saldo positivo ou negativo, seguindo o valor do saldo
+
+
+#Desafio 3: crie uma função que receba uma String em celsius ou  fahrenheit e faça a tranformação de um unidade para outra
+
+    C = (F - 32) * 5/9
+
+    F = C * 9/5 + 32
